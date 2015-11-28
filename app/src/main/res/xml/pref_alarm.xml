@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/title_settings">
+
+    <PreferenceCategory android:title="@string/time_reminder_title">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="alarm_on"
+            android:persistent="true"
+            android:summary="@string/enable_alarm_summary"
+            android:title="@string/enable_alarm" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:dependency="alarm_on"
+            android:key="azan_sound"
+            android:persistent="true"
+            android:title="@string/azan_sound"
+            android:summary="@string/azan_sound_summary" />
+
+        <RingtonePreference
+            android:dependency="alarm_on"
+            android:key="alarm_sound"
+            android:persistent="true"
+            android:ringtoneType="all"
+            android:showSilent="false"
+            android:title="@string/alarm_sound_title" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:dependency="alarm_on"
+            android:key="vibrate"
+            android:persistent="true"
+            android:summary="@string/alarm_vibrate_summary"
+            android:title="@string/alarm_vibrate" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/language_settings">
+        <ListPreference
+            android:persistent="true"
+            android:key="language"
+            android:dialogTitle="@string/language"
+            android:title="@string/language"
+            android:entries="@array/lang_list"
+            android:entryValues="@array/lang_list_vals">
+        </ListPreference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

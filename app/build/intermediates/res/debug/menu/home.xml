@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="eardic.namazvakti.Home">
+
+    <item
+        android:id="@+id/action_loc_add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="withText|ifRoom"
+        android:title="" />
+
+</menu>
+<!-- From: file:/D:/AndroidStudioProjects/NamazVakti/app/src/main/res/menu/home.xml -->

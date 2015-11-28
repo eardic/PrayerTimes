@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_compass_info"
+        android:icon="@android:drawable/ic_menu_help"
+        android:showAsAction="withText|ifRoom"
+        android:title="" />
+
+    <item
+        android:id="@+id/action_compass_refresh"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:showAsAction="withText|ifRoom"
+        android:title="" />
+</menu>

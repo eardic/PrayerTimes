@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="@dimen/sm_widget_size"
+    android:minWidth="@dimen/sm_widget_size"
+    android:previewImage="@drawable/wg_sm_en"
+    android:updatePeriodMillis="5000"></appwidget-provider>

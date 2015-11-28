@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/compassNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="@string/compass_calib_msg"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/qabeImage"
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/compassNote"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:src="@drawable/compass_calibration" />
+
+</RelativeLayout>
+<!-- From: file:/D:/AndroidStudioProjects/NamazVakti/app/src/main/res/layout/compass_info_dialog.xml -->

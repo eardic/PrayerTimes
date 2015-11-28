@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayoutWg"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/wg_bg_shape"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:paddingRight="8dp"
+    android:paddingLeft="8dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/imsakTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/locationTextWg"
+        android:text="@string/fajr"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/gunesTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imsakTextLabel"
+        android:text="@string/shuruq"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/ogleTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/gunesTextLabel"
+        android:text="@string/dhuhr"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/ikindiTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ogleTextLabel"
+        android:text="@string/asr"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/aksamTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ikindiTextLabel"
+        android:text="@string/magrib"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/yatsiTextLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/aksamTextLabel"
+        android:text="@string/isha"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:padding="0dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/ikindiTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/ikindiTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/aksamTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/aksamTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/yatsiTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/yatsiTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/imsakTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/imsakTextLabel"
+        android:layout_alignBottom="@+id/imsakTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/gunesTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/gunesTextLabel"
+        android:layout_alignBottom="@+id/gunesTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/ogleTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/ogleTextLabel"
+        android:layout_alignParentRight="true"
+        android:text="00:00"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:paddingRight="2dp"
+        android:paddingLeft="2dp"
+        android:layout_marginTop="@dimen/widget_text_margin_top"
+        android:singleLine="true"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/locationTextWg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:maxLength="11"
+        android:text="____________"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/widget_text_size"
+        android:gravity="center_horizontal"
+        android:paddingBottom="2dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:singleLine="true"
+        android:maxHeight="12dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

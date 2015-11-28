@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="prayer_time_table_padding">6dp</dimen>
+
+    <dimen name="widget_text_size">16sp</dimen>
+    <dimen name="widget_text_margin_top">1sp</dimen>
+
+    <dimen name="sm_widget_text_size">15sp</dimen>
+    <dimen name="sm_widget_text_margin_top">4dp</dimen>
+
+</resources>

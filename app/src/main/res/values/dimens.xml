@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">180dp</dimen>
+
+    <dimen name="prayer_time_table_padding">4dp</dimen>
+
+    <dimen name="sm_widget_size">60dp</dimen>
+    <dimen name="widget_w">120dp</dimen>
+    <dimen name="widget_h">140dp</dimen>
+
+</resources>

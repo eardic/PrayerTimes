@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/NamazVakti/app/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string-array name="country_codes">
+        <item>33</item>
+        <item>166</item>
+        <item>13</item>
+        <item>17</item>
+        <item>140</item>
+        <item>125</item>
+        <item>90</item>
+        <item>199</item>
+        <item>25</item>
+        <item>153</item>
+        <item>59</item>
+        <item>35</item>
+        <item>5</item>
+        <item>54</item>
+        <item>132</item>
+        <item>177</item>
+        <item>188</item>
+        <item>208</item>
+        <item>11</item>
+        <item>182</item>
+        <item>181</item>
+        <item>51</item>
+        <item>93</item>
+        <item>83</item>
+        <item>9</item>
+        <item>167</item>
+        <item>146</item>
+        <item>97</item>
+        <item>44</item>
+        <item>91</item>
+        <item>154</item>
+        <item>65</item>
+        <item>155</item>
+        <item>156</item>
+        <item>43</item>
+        <item>16</item>
+        <item>86</item>
+        <item>160</item>
+        <item>61</item>
+        <item>26</item>
+        <item>180</item>
+        <item>176</item>
+        <item>123</item>
+        <item>72</item>
+        <item>139</item>
+        <item>63</item>
+        <item>165</item>
+        <item>117</item>
+        <item>175</item>
+        <item>104</item>
+        <item>6</item>
+        <item>95</item>
+        <item>145</item>
+        <item>197</item>
+        <item>120</item>
+        <item>126</item>
+        <item>204</item>
+        <item>41</item>
+        <item>21</item>
+        <item>79</item>
+        <item>109</item>
+        <item>143</item>
+        <item>111</item>
+        <item>58</item>
+        <item>48</item>
+        <item>171</item>
+        <item>169</item>
+        <item>99</item>
+        <item>67</item>
+        <item>128</item>
+        <item>62</item>
+        <item>82</item>
+        <item>70</item>
+        <item>187</item>
+        <item>30</item>
+        <item>4</item>
+        <item>66</item>
+        <item>105</item>
+        <item>113</item>
+        <item>15</item>
+        <item>124</item>
+        <item>202</item>
+        <item>32</item>
+        <item>23</item>
+        <item>205</item>
+        <item>12</item>
+        <item>49</item>
+        <item>8</item>
+        <item>122</item>
+        <item>119</item>
+        <item>116</item>
+        <item>161</item>
+        <item>184</item>
+        <item>52</item>
+        <item>34</item>
+        <item>94</item>
+        <item>92</item>
+        <item>114</item>
+        <item>168</item>
+        <item>57</item>
+        <item>88</item>
+        <item>18</item>
+        <item>162</item>
+        <item>209</item>
+        <item>206</item>
+        <item>133</item>
+        <item>1</item>
+        <item>142</item>
+        <item>134</item>
+        <item>174</item>
+        <item>20</item>
+        <item>73</item>
+        <item>203</item>
+        <item>38</item>
+        <item>47</item>
+        <item>42</item>
+        <item>31</item>
+        <item>7</item>
+        <item>98</item>
+        <item>100</item>
+        <item>28</item>
+        <item>55</item>
+        <item>103</item>
+        <item>107</item>
+        <item>152</item>
+        <item>24</item>
+        <item>87</item>
+        <item>164</item>
+        <item>157</item>
+        <item>53</item>
+        <item>85</item>
+        <item>189</item>
+        <item>60</item>
+        <item>46</item>
+        <item>3</item>
+        <item>147</item>
+        <item>106</item>
+        <item>151</item>
+        <item>196</item>
+        <item>76</item>
+        <item>84</item>
+        <item>127</item>
+        <item>141</item>
+        <item>178</item>
+        <item>36</item>
+        <item>80</item>
+        <item>131</item>
+        <item>77</item>
+        <item>149</item>
+        <item>89</item>
+        <item>185</item>
+        <item>194</item>
+        <item>69</item>
+        <item>183</item>
+        <item>39</item>
+        <item>45</item>
+        <item>68</item>
+        <item>112</item>
+        <item>37</item>
+        <item>81</item>
+        <item>207</item>
+        <item>198</item>
+        <item>102</item>
+        <item>138</item>
+        <item>200</item>
+        <item>179</item>
+        <item>27</item>
+        <item>14</item>
+        <item>19</item>
+        <item>150</item>
+        <item>74</item>
+        <item>129</item>
+        <item>172</item>
+        <item>191</item>
+        <item>64</item>
+        <item>163</item>
+        <item>170</item>
+        <item>101</item>
+        <item>110</item>
+        <item>137</item>
+        <item>108</item>
+        <item>71</item>
+        <item>130</item>
+        <item>96</item>
+        <item>118</item>
+        <item>2</item>
+        <item>159</item>
+        <item>75</item>
+        <item>40</item>
+        <item>29</item>
+        <item>173</item>
+        <item>192</item>
+        <item>201</item>
+        <item>56</item>
+        <item>10</item>
+        <item>186</item>
+        <item>135</item>
+        <item>148</item>
+        <item>115</item>
+        <item>193</item>
+        <item>144</item>
+        <item>22</item>
+        <item>158</item>
+        <item>136</item>
+    </string-array>
+    <string-array name="country_list">
+        <item>ABD</item>
+        <item>AFGANISTAN</item>
+        <item>ALMANYA</item>
+        <item>ANDORRA</item>
+        <item>ANGOLA</item>
+        <item>ANGUILLA</item>
+        <item>ANTIGUA VE BARBUDA</item>
+        <item>ARJANTIN</item>
+        <item>ARNAVUTLUK</item>
+        <item>ARUBA</item>
+        <item>AVUSTRALYA</item>
+        <item>AVUSTURYA</item>
+        <item>AZERBAYCAN</item>
+        <item>BAHAMALAR</item>
+        <item>BAHREYN</item>
+        <item>BANGLADES</item>
+        <item>BARBADOS</item>
+        <item>BELARUS</item>
+        <item>BELCIKA</item>
+        <item>BELIZE</item>
+        <item>BENIN</item>
+        <item>BERMUDA</item>
+        <item>BIRLESIK ARAP EMIRLIGI</item>
+        <item>BOLIVYA</item>
+        <item>BOSNA HERSEK</item>
+        <item>BOTSVANA</item>
+        <item>BREZILYA</item>
+        <item>BRUNEI</item>
+        <item>BULGARISTAN</item>
+        <item>BURKINA FASO</item>
+        <item>BURMA (MYANMAR)</item>
+        <item>BURUNDI</item>
+        <item>BUTAN</item>
+        <item>CAD</item>
+        <item>CECENISTAN</item>
+        <item>CEK CUMHURIYETI</item>
+        <item>CEZAYIR</item>
+        <item>CIBUTI</item>
+        <item>CIN</item>
+        <item>DANIMARKA</item>
+        <item>DEMOKRATIK KONGO CUMHURIYETI</item>
+        <item>DOGU TIMOR</item>
+        <item>DOMINIK</item>
+        <item>DOMINIK CUMHURIYETI</item>
+        <item>EKVATOR</item>
+        <item>EKVATOR GINESI</item>
+        <item>EL SALVADOR</item>
+        <item>ENDONEZYA</item>
+        <item>ERITRE</item>
+        <item>ERMENISTAN</item>
+        <item>ESTONYA</item>
+        <item>ETYOPYA</item>
+        <item>FAS</item>
+        <item>FIJI</item>
+        <item>FILDISI SAHILI</item>
+        <item>FILIPINLER</item>
+        <item>FILISTIN</item>
+        <item>FINLANDIYA</item>
+        <item>FRANSA</item>
+        <item>GABON</item>
+        <item>GAMBIYA</item>
+        <item>GANA</item>
+        <item>GINE</item>
+        <item>GRANADA</item>
+        <item>GRONLAND</item>
+        <item>GUADELOPE</item>
+        <item>GUAM ADASI</item>
+        <item>GUATEMALA</item>
+        <item>GUNEY AFRIKA</item>
+        <item>GUNEY KORE</item>
+        <item>GURCISTAN</item>
+        <item>GUYANA</item>
+        <item>HAITI</item>
+        <item>HINDISTAN</item>
+        <item>HIRVATISTAN</item>
+        <item>HOLLANDA</item>
+        <item>HOLLANDA ANTILLERI</item>
+        <item>HONDURAS</item>
+        <item>HONG KONG</item>
+        <item>INGILTERE</item>
+        <item>IRAK</item>
+        <item>IRAN</item>
+        <item>IRLANDA</item>
+        <item>ISPANYA</item>
+        <item>ISRAIL</item>
+        <item>ISVEC</item>
+        <item>ISVICRE</item>
+        <item>ITALYA</item>
+        <item>IZLANDA</item>
+        <item>JAMAIKA</item>
+        <item>JAPONYA</item>
+        <item>KAMBOCYA</item>
+        <item>KAMERUN</item>
+        <item>KANADA</item>
+        <item>KARADAG</item>
+        <item>KATAR</item>
+        <item>KAZAKISTAN</item>
+        <item>KENYA</item>
+        <item>KIRGIZISTAN</item>
+        <item>KOLOMBIYA</item>
+        <item>KOMORLAR</item>
+        <item>KOSOVA</item>
+        <item>KOSTARIKA</item>
+        <item>KUBA</item>
+        <item>KUDUS</item>
+        <item>KUVEYT</item>
+        <item>KUZEY KIBRIS</item>
+        <item>KUZEY KORE</item>
+        <item>LAOS</item>
+        <item>LESOTO</item>
+        <item>LETONYA</item>
+        <item>LIBERYA</item>
+        <item>LIBYA</item>
+        <item>LIECHTENSTEIN</item>
+        <item>LITVANYA</item>
+        <item>LUBNAN</item>
+        <item>LUKSEMBURG</item>
+        <item>MACARISTAN</item>
+        <item>MADAGASKAR</item>
+        <item>MAKAO</item>
+        <item>MAKEDONYA</item>
+        <item>MALAVI</item>
+        <item>MALDIVLER</item>
+        <item>MALEZYA</item>
+        <item>MALI</item>
+        <item>MALTA</item>
+        <item>MARTINIK</item>
+        <item>MAURITIUS ADASI</item>
+        <item>MAYOTTE</item>
+        <item>MEKSIKA</item>
+        <item>MIKRONEZYA</item>
+        <item>MISIR</item>
+        <item>MOGOLISTAN</item>
+        <item>MOLDAVYA</item>
+        <item>MONAKO</item>
+        <item>MONTSERRAT (U.K.)</item>
+        <item>MORITANYA</item>
+        <item>MOZAMBIK</item>
+        <item>NAMBIYA</item>
+        <item>NEPAL</item>
+        <item>NIJER</item>
+        <item>NIJERYA</item>
+        <item>NIKARAGUA</item>
+        <item>NIUE</item>
+        <item>NORVEC</item>
+        <item>ORTA AFRIKA CUMHURIYETI</item>
+        <item>OZBEKISTAN</item>
+        <item>PAKISTAN</item>
+        <item>PALAU</item>
+        <item>PANAMA</item>
+        <item>PAPUA YENI GINE</item>
+        <item>PARAGUAY</item>
+        <item>PERU</item>
+        <item>PITCAIRN ADASI</item>
+        <item>POLONYA</item>
+        <item>PORTEKIZ</item>
+        <item>PORTO RIKO</item>
+        <item>REUNION</item>
+        <item>ROMANYA</item>
+        <item>RUANDA</item>
+        <item>RUSYA</item>
+        <item>SAMOA</item>
+        <item>SENEGAL</item>
+        <item>SEYSEL ADALARI</item>
+        <item>SILI</item>
+        <item>SINGAPUR</item>
+        <item>SIRBISTAN</item>
+        <item>SLOVAKYA</item>
+        <item>SLOVENYA</item>
+        <item>SOMALI</item>
+        <item>SRI LANKA</item>
+        <item>SUDAN</item>
+        <item>SURINAM</item>
+        <item>SURIYE</item>
+        <item>SUUDI ARABISTAN</item>
+        <item>SVALBARD</item>
+        <item>SVAZILAND</item>
+        <item>TACIKISTAN</item>
+        <item>TANZANYA</item>
+        <item>TAYLAND</item>
+        <item>TAYVAN</item>
+        <item>TOGO</item>
+        <item>TONGA</item>
+        <item>TRINIDAT VE TOBAGO</item>
+        <item>TUNUS</item>
+        <item>TURKIYE</item>
+        <item>TURKMENISTAN</item>
+        <item>UGANDA</item>
+        <item>UKRAYNA</item>
+        <item>UKRAYNA-KIRIM</item>
+        <item>UMMAN</item>
+        <item>URDUN</item>
+        <item>URUGUAY</item>
+        <item>VANUATU</item>
+        <item>VATIKAN</item>
+        <item>VENEZUELA</item>
+        <item>VIETNAM</item>
+        <item>YEMEN</item>
+        <item>YENI KALEDONYA</item>
+        <item>YENI ZELLANDA</item>
+        <item>YESIL BURUN</item>
+        <item>YUNANISTAN</item>
+        <item>ZAMBIYA</item>
+        <item>ZIMBABVE</item>
+    </string-array>
+    <string-array name="lang_list">
+        <item>İngilizce</item>
+        <item>Türkçe</item>
+    </string-array>
+    <string-array name="lang_list_vals">
+        <item>en</item>
+        <item>tr</item>
+    </string-array>
+    <!-- From: file:/D:/AndroidStudioProjects/NamazVakti/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-tr/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Tamamlandı"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s ile paylaş"</string>
+    <!-- From: file:/D:/AndroidStudioProjects/NamazVakti/app/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="alarm_repeat">Tekrarla</string>
+    <string name="alarm_sound_title">Özel Ses</string>
+    <string name="alarm_summary">Ezan vaktinde çalınacak sestir</string>
+    <string name="alarm_time">Zaman</string>
+    <string name="alarm_vibrate">Titreşim</string>
+    <string name="alarm_vibrate_summary">Alarmla birlikte titreşimi aktif eder</string>
+    <string name="alert_expire_db_no">Uyg. Kapat</string>
+    <string name="alert_expire_db_yes">Güncelle</string>
+    <string name="alert_yes">WiFi Ayarları</string>
+    <string name="app_name">Namaz Vakti</string>
+    <string name="april">Nisan</string>
+    <string name="asr">İkindi</string>
+    <string name="august">Ağustos</string>
+    <string name="azan_sound">Ezan Sesi</string>
+    <string name="azan_sound_file">Ezan.mp3</string>
+    <string name="azan_sound_summary">Namaz vaktinde ezan okunmasını sağlar</string>
+    <string name="city_prompt">İlçe Seç</string>
+    <string name="close">Kapat</string>
+    <string name="compass_calib_msg">Kalibrasyon için cihazı aşağıdaki şekilde hareket ettiriniz.</string>
+    <string name="compass_calibration_low">Lütfen pusulayı kalibre ediniz</string>
+    <string name="compass_img_desc">Pusula</string>
+    <string name="compass_init_angle">0°</string>
+    <string name="compass_not_sup_msg">Desteklenmeyen cihaz</string>
+    <string name="compass_note_text">Lütfen cihazı yatay konumda tutunuz</string>
+    <string name="con_error_msg">İnternet bağlantınızı açınız</string>
+    <string name="connection_lost">İnternet Bağlantısı Başarısız</string>
+    <string name="country_prompt">Ülke Seç</string>
+    <string name="date">Tarih</string>
+    <string name="day">Gün</string>
+    <string name="december">Aralık</string>
+    <string name="detected_invalid_data">Namaz vakti verisinde hata tespit edildi. Lütfen konumunuza yakın başka bir yer seçiniz.</string>
+    <string name="dhuhr">Öğle</string>
+    <string name="enable_alarm">Zamanında Hatırlat</string>
+    <string name="enable_alarm_summary">Ezan vaktinde alarmı aktif eder</string>
+    <string name="english">İngilizce</string>
+    <string name="failed_to_update_times">Vakitler indirilirken hata oluştu. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="fajr">İmsak</string>
+    <string name="february">Şubat</string>
+    <string name="finding_loc_msg">Konum Aranıyor…</string>
+    <string name="friday">Cuma</string>
+    <string name="friday_s">Cum</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_needed_for_loc">Konum bilgisini alabilmek için internet bağlantısı gereklidir.</string>
+    <string name="invalid_data_error">Hatalı Veri</string>
+    <string name="isha">Yatsı</string>
+    <string name="january">Ocak</string>
+    <string name="july">Temmuz</string>
+    <string name="june">Haziran</string>
+    <string name="language">Dil</string>
+    <string name="language_settings">Dil Ayarları</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="loc_service_error">Konum Servisi Bulunamadı</string>
+    <string name="loc_service_must_be_enabled">Pusula için konum servisleri açık olmalıdır.</string>
+    <string name="loc_settings">Konum Ayarları</string>
+    <string name="locale">tr</string>
+    <string name="login_btn">Vakti Göster</string>
+    <string name="magrib">Akşam</string>
+    <string name="march">Mart</string>
+    <string name="may">Mayıs</string>
+    <string name="monday">Pazartesi</string>
+    <string name="monday_s">Pzts</string>
+    <string name="monthly_times_loc_error">Lütfen aylık vakitlerin gösterileceği bir konum seçiniz.</string>
+    <string name="navigation_drawer_close">Seçenekleri kapatınız</string>
+    <string name="navigation_drawer_open">Seçenekleri açınız</string>
+    <string name="no_loc_found">Konum Bulunamadı</string>
+    <string name="notif_title">Namaz Vakti</string>
+    <string name="november">Kasım</string>
+    <string name="october">Ekim</string>
+    <string name="okey">Tamam</string>
+    <string name="please_check_internet_connetion">Lütfen internet bağlantınızı kontrol ediniz.</string>
+    <string name="prayer_time_has_come">X ezanı okundu.</string>
+    <string name="qibla">Kıble</string>
+    <string name="qibla_angle_head">Bakılan yönün kabeye açısı</string>
+    <string name="remaning_period_of_time">Vaktine Kalan Zaman</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="saturday_s">Cmts</string>
+    <string name="select_city">Lütfen bir ilçe seçin</string>
+    <string name="select_country">Lütfen bir ülke seçin</string>
+    <string name="select_loc">Konum Seç</string>
+    <string name="select_state">Lütfen bir şehir seçin</string>
+    <string name="september">Eylül</string>
+    <string name="set_alarm">Alarm Seç</string>
+    <string name="shuruq">Güneş</string>
+    <string name="state_prompt">Şehir Seç</string>
+    <string name="sunday">Pazar</string>
+    <string name="sunday_s">Pzr</string>
+    <string name="thursday">Perşembe</string>
+    <string name="thursday_s">Per</string>
+    <string name="time_reminder_title">Hatırlatma</string>
+    <string name="time_wdg">Zaman</string>
+    <string name="times_expired">Vakitler Eskidi</string>
+    <string name="times_expired_msg">Namaz vakitlerinin güncellenmesi için internet bağlantınızı açıp güncelle tuşuna basınız.</string>
+    <string name="times_updated_successfully">Vakit güncellemesi başarıyla tamamlandı.</string>
+    <string name="title_about">Hakkında</string>
+    <string name="title_activity_home">Namaz Vakitleri</string>
+    <string name="title_compass">Kıble Pusulası</string>
+    <string name="title_ml_times">Aylık Vakitler</string>
+    <string name="title_settings">Ayarlar</string>
+    <string name="title_times">Namaz Vakitleri</string>
+    <string name="today">Bugün</string>
+    <string name="tuesday">Salı</string>
+    <string name="tuesday_s">Salı</string>
+    <string name="turkish">Türkçe</string>
+    <string name="unexcepted_error">Beklenmeyen bir hata oluştu. Lütfen geliştirici ile iletişime geçiniz.</string>
+    <string name="version">Sürüm</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="wednesday_s">Çar</string>
+    <string name="widget_name">Namaz Vakti</string>
+    <string name="wifi_message">WiFi konum bulma hızını arttırabilir</string>
+</resources>
